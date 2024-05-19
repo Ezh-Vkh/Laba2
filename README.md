@@ -130,7 +130,7 @@ $ git log
 commit 647315cf20c2ee494d333671211ac0903b9c9406 (master)
 Merge: 2985f7c e82700b
 Author: Pupkenberg <113918951+3Wc4YEM5@users.noreply.github.com>
-Date:   Thu May 2 14:09:56 2024 +0300
+Date:   Thu May 19 22:09:56 2024 +0300
 
     Merge pull request #1 from 3Wc4YEM5/patch1
     
@@ -138,31 +138,31 @@ Date:   Thu May 2 14:09:56 2024 +0300
 
 commit e82700bbf3da34984eabbd7bf2ee2973ff89c7a1 (origin/patch1)
 Author: 3Wc4YEM5 <aibushev.goscha@yandex.ru>
-Date:   Thu May 2 14:06:14 2024 +0300
+Date:   Thu May 19 22:06:14 2024 +0300
 
     added comment in code
 
 commit a7fd39a6ac664e2a0e2e7ec2915a1d542b970d51
 Author: 3Wc4YEM5 <aibushev.goscha@yandex.ru>
-Date:   Thu May 2 14:00:21 2024 +0300
+Date:   Thu May 19 22:00:21 2024 +0300
 
     patched  Hello_world.cpp
 
 commit 2985f7c852cd973cea3a18afa2f06d19fb915474
 Author: 3Wc4YEM5 <aibushev.goscha@yandex.ru>
-Date:   Thu May 2 13:58:18 2024 +0300
+Date:   Thu May 19 22:58:18 2024 +0300
 
     new Hello_world.cpp
 
 commit dc6a9abd64e2e1b1101e5b724526581142049485
 Author: 3Wc4YEM5 <aibushev.goscha@yandex.ru>
-Date:   Thu May 2 13:56:16 2024 +0300
+Date:   Thu May 19 22:56:16 2024 +0300
 
     added Hello_world.cpp
 
 commit 50d6d5f5093304cd0adbd6842e1f34f3abb5dd04
 Author: 3Wc4YEM5 <aibushev.goscha@yandex.ru>
-Date:   Thu May 2 13:54:38 2024 +0300
+Date:   Thu May 19 22:54:38 2024 +0300
 
     first commit
 ```
